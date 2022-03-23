@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rummanraihan
-- 👀 I’m interested in ...power electronics design/EV design/Formula E and RF design
+- 👀 I’m interested in ...power electronics design/EV design/Formula E and RF chip design
 - 🌱 I’m currently learning ...plexim/python/solidworks
 - 💞️ I’m looking to collaborate on ... EV project and RF design/testing
 - 📫 How to reach me ... raihan.rumman@gmail.com / Rummanraihan@protonmail.com
